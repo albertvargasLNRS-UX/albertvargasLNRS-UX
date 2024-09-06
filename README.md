@@ -6,7 +6,7 @@ Hi there! I'm adesigner with a knack for crafting user-friendly designs. With a 
 
 ## 💼 Professional Experience
 
-As a leading authority for UX design inside and outside of the company, I provide creative and UX direction to the business. I work with various stakeholders to establish best practices and UX standards for LexisNexis.
+I work with various stakeholders to establish best practices and UX design standards for LexisNexis Risk Solutions, inc.
 
 **Responsibilities:**
 - Analyze customer use cases, business, and organization.
@@ -20,12 +20,12 @@ As a leading authority for UX design inside and outside of the company, I provid
 - Prepare and present findings of data-driven UX analysis and testing to senior stakeholders.
 
 ## 🛠️ Skills
-- **Design Tools:** Adobe Creative Suite (Photoshop, Illustrator, InDesign), Sketch, Figma
-- **Web Technologies:** HTML, CSS, JavaScript
-- **Other:** Branding, Typography, User Research, Prototyping
+- **Human-Centered:** Creative, Empathetic, Strategic, Collaborative
+- **Tools/Technologies:** A.I., HTML, CSS, JavaScript, Adobe Creative Suite (Photoshop, Illustrator, InDesign), Figma, pen and paper
+- **UX Specific:** User Research, UX Design, Wireframing, Workshops, UI Design, Accessibilty, Process and Workflow Optimization, 
 
 ## 📫 Contact
 - **LinkedIn:** [Albert Vargas](https://www.linkedin.com/in/albertodesignz/)
-- **Email:** albert.vargas@lexisnexisrisk.com
+- **Email:** albertlazarovargas@gmail.com
 
 Feel free to reach out if you have any questions or if you'd like to collaborate on a project. Let's create something amazing together!
