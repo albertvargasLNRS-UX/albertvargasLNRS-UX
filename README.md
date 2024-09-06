@@ -2,11 +2,11 @@
 ### Principle User Experience Designer II at LexisNexis Risk Solutions
 
 ## 👨‍💻 About Me
-Hi there! I'm adesigner with a knack for crafting user-friendly designs. With a strong background in graphic design, UI/UX, and branding, I bring a unique blend of artistic flair and technical expertise to every project I undertake.
+Hi there! I'm a UX designer with a knack for crafting user-friendly, innovative designs. With a strong background in UX Design, system and workflow design, UI, and branding, I bring a unique blend of artistic flair and technical expertise to every project I undertake.
 
 ## 💼 Professional Experience
 
-I work with various stakeholders to establish best practices and UX design standards for LexisNexis Risk Solutions, inc.
+I work with various stakeholders to establish best practices and UX design standards for LexisNexis Risk Solutions, Inc.
 
 **Responsibilities:**
 - Analyze customer use cases, business, and organization.
@@ -21,10 +21,10 @@ I work with various stakeholders to establish best practices and UX design stand
 
 ## 🛠️ Skills
 - **Human-Centered:** Creative, Empathetic, Strategic, Collaborative
-- **Tools/Technologies:** A.I., HTML, CSS, JavaScript, Adobe Creative Suite (Photoshop, Illustrator, InDesign), Figma, pen and paper
-- **UX Specific:** User Research, UX Design, Wireframing, Workshops, UI Design, Accessibilty, Process and Workflow Optimization, 
+- **Tools/Technologies:** A.I., HTML, CSS, JavaScript, Adobe Creative Suite (Photoshop, Illustrator, InDesign), Figma, Slack, Miro, pen and paper
+- **UX Specific:** User Research, UX Design, Wireframing, Workshops, UI Design, Accessibilty, Process and Workflow Optimization, Needs Analysis
 
-## 📫 Contact
+## 📫 Let's Connect!
 - **LinkedIn:** [Albert Vargas](https://www.linkedin.com/in/albertodesignz/)
 - **Email:** albertlazarovargas@gmail.com
 
