@@ -2,7 +2,7 @@
 ### Principle User Experience Designer II at LexisNexis Risk Solutions
 
 ## 👨‍💻 About Me
-Hi there! I'm a UX designer with a knack for crafting user-friendly, innovative designs with HTML, CSS and other tech stacks. I have a strong background in UX Design, system workflow design, UI dev, and branding, I bring a unique blend of artistic flair and technical expertise to every project I undertake.
+Hi there! I'm a Principle II UX designer with a knack for crafting user-friendly, innovative designs with HTML, CSS and other tech stacks. I have a strong background in UX Design, system workflow design, UI dev, and branding and I bring a unique blend of artistic flair and technical expertise to every project I undertake.
 
 ## 💼 Professional Experience
 
